@@ -1,0 +1,372 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
+}
+
+.navigate{
+    padding: 8px 0px 16px 0px;
+}
+
+#surtexLogo {
+    margin-left: 160px;
+}
+
+#first_link {
+    margin-left: 120px;
+}
+
+#fourth_link {
+    margin-left: 320px;
+}
+
+.navigate nav a {
+    color: #92F5A2;
+    padding-left: 28px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+#cart_icon {
+    margin-left: 48px;
+}
+
+#search_icon {
+    margin-left: 16px;
+}
+
+.hero_section h1 {
+    margin-top: 0%;
+    color: #92F5A2;
+    font-family: Roboto serif;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 56px;
+    padding-top: 496px;
+}
+
+.hero_section h2 {
+    color: #92F5A2;
+    text-align: center;
+    margin-top: -32px;
+    padding-bottom: 72px;
+}
+
+.weird-section {
+    margin-top: -36px;
+}
+
+.weird-section h2 {
+    color: #92F5A2;
+    text-align: center;
+    padding-top: 32px;
+    font-size: 40px;
+    font-weight: lighter;
+}
+
+.weird-section-body {
+    display: flex;
+    position: relative;
+    padding: 24px 296px 128px 296px;
+
+}
+
+#condom {
+    position: absolute;
+    width: 140px;
+    margin-left: -12px;
+    z-index: 2;
+}
+
+#lub {
+    position: absolute;
+    z-index: 2;
+    width: 72px;
+    margin-left: 108px;
+}
+
+#toy {
+    position: absolute;
+    z-index: 2;
+    width: 140px;
+    margin-left: 196px;
+    margin-top: 8px;
+}
+
+#condom-div {
+    position: relative;
+    margin-left: 56px;
+    margin-top: 128px;
+}
+
+#condom-para {
+    text-align: right;
+    padding: 32px 8px 32px 96px;
+}
+
+#lub-div {
+    position: relative;
+    margin-left: 16px;
+    margin-top: 156px;
+}
+
+#lub-para {
+    text-align: center;
+    padding: 32px 64px;
+}
+
+#toy-div {
+    margin-top: 128px;
+    position: relative;
+    margin-left: 16px;
+}
+
+#toy-para {
+    text-align: left;
+    padding: 32px 108px 48px 8px;
+}
+.btns {
+    border: 1px solid transparent;
+    color: black;
+    background-color: #FDFF89;
+    text-decoration: none;
+    text-align: center;
+    padding: 8px 4px;
+    border-radius: 4px;
+    width:fit-content;
+}
+#condom-btn {
+    margin-left: -8px;
+    position: absolute;
+    z-index: 2;
+    margin-top: -24px;
+}
+#lub-btn {
+    margin-left: 96px;
+    position: absolute;
+    z-index: 2;
+    margin-top: -24px;
+}
+
+#toy-btn {
+    position: absolute;
+    z-index: 2;
+    margin-left: 208px;
+    margin-top: -24px;
+}
+
+.pleasure-para {
+    border: 3px solid #92F5A2;
+}
+
+.pleasure-para p {
+    font-size: 16px;
+    color: #92F5A2;
+}
+.sexuality {
+    background-color: #92F5A2;
+    margin-top: -36px;
+}
+
+.talk h2{
+    text-align: center;
+    padding-top: 96px;
+    font-size: 40px;
+    color: #110300;
+}
+
+.talk p {
+    text-align: center;
+    margin-top: -24px;
+    line-height: 20px;
+    color: #110300;
+    font-size: 16px;
+    font-weight: bold;
+    padding-bottom: 16px;
+}
+
+.talk a {
+    border: 1px solid #110300;
+    padding: 12px 8px;
+    text-align: center;
+    margin-left: 640px;
+    text-decoration: none;
+    color: #110300;font-weight: bolder;
+}
+.photos {
+    margin-top: 48px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+.photo-stars {
+    margin-right: 16px;
+    background-color: #110300;
+    text-align: center;
+}
+
+.photo-stars p {
+    color: #92F5A2;
+}
+
+.thin-para {
+    font-size: 14px;
+}
+
+.date {
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.view {
+    text-align: center;
+    margin-top: 24px;
+}
+
+.view p {
+    color: #110300;
+    font-weight: bolder;
+    padding-bottom: 96px;
+}
+
+.expresso {
+    margin-top: -24px;
+}
+
+.expresso-content {
+    margin-top: 24px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    margin-bottom: 128px;
+}
+
+.expresso-content-text {
+    margin-left: -456px;
+    color: #92F5A2;
+    margin-top: 128px;
+    border: 1px solid #92F5A2;
+}
+
+.expresso-content-text h2 {
+    padding: 48px 64px 16px 48px;
+    line-height: 32px;
+}
+
+.expresso-content-text p {
+    padding: 0px 64px 48px 48px;
+    line-height: 20px;
+}
+
+.expresso-content-image img {
+    width: 496px;
+    position: absolute;
+    margin-left: -48px;
+    margin-top: 88px;
+}
+
+.expresso-prompt {
+    margin-left: 1080px;
+    position: relative;
+    margin-top: -128px;
+    padding-bottom: 128px;
+}
+
+.expresso-prompt a {
+    border: 1px solid transparent;
+    background-color: #FDFF89;
+    color: #110300;
+    text-decoration: none;
+    text-align: center;
+    padding: 8px 4px;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+.letter {
+    margin-top: -48px;
+    padding-bottom: 196px;
+}
+
+.pleasure-letter {
+    text-align: center;
+    color: #92F5A2;
+}
+
+.pleasure-letter h2 {
+    padding-top: 172px;
+    font-size: 40px;
+}
+
+.pleasure-letter p {
+    margin-top: -28px;
+    line-height: 24px;
+    font-size: 16px;
+    padding-bottom: 56px;
+}
+
+.subsribe-to-letter {
+    text-align: center;
+}
+
+.subsribe-to-letter a {
+    border: 2px solid transparent;
+    background-color: #FDFF89;
+    color: #110300;
+    width: fit-content;
+    padding: 8px 8px;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+#email {
+    border: 2px solid #92F5A2;
+    background-color: #110300;
+    padding: 12px 496px 12px 8px;
+    border-radius: 4px;
+}
+
+#email::placeholder {
+    color: #92F5A2;
+    font-weight: bold;
+}
+
+.footer {
+    margin-top: -24px;
+    background-color: #110300;
+    text-align: center;
+}
+
+.footer img {
+    padding-bottom: 24px;
+}
+
+.area {
+    padding-bottom: 24px;
+}
+
+.area a {
+    text-decoration: none;
+    color: #92F5A2;
+    font-size: 16px;
+    font-weight: bold;
+    padding-right: 12px;
+}
+
+#bar {
+    padding: 0px 280px;
+}
+
+#horizon {
+    width: 80%;
+    border: none;
+    border-top: 2px solid #92F5A2;
+}
+
+.footer p {
+    color: #92F5A2;
+    font-size: 14px;
+    padding: 16px 0px 48px 0px;
+}
